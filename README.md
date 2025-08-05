@@ -46,7 +46,7 @@ pelota
 morral
 
  # #📁 Repository Structure
-
+```
 venezuelan-bip39/
 ├── src/
 │   ├── wordlist.txt             # Final 2048 wordlist
@@ -58,7 +58,7 @@ venezuelan-bip39/
 │   └── test_wallet_integration.py
 ├── README.md
 └── LICENSE
-
+```
  # #🔐 How to Use (Planned)
 
 pip install bip39ven
