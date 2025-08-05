@@ -26,12 +26,12 @@ No slang with radically shifting meaning.
 Favor concrete nouns, verbs, and adjectives.
 
  # #🔄 Status
-
+```
 ✅ Phase 1: Word collection (2,500 candidates)
 🔄 Phase 2: Filtering & entropy checks
 🛠️ Phase 3: BIP-39 compatibility testing
 🧪 Phase 4: Wallet test vectors + seed conversion
-
+```
  # #✨ Sample Words (WIP)
 
 arepa
