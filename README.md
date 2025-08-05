@@ -1,0 +1,1 @@
+# VE-bip-39-dictionary
